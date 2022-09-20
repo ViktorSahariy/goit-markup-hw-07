@@ -1,0 +1,28 @@
+.quality__title {
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.quality__list {
+    display: flex;
+}
+.quality__item {
+    margin-right: 30px;
+    width: 270px;
+
+    &:last-child {
+        margin-right: 0;
+    }
+}
+
+.quality__box {
+    width: 270px;
+    height: 120px;
+    margin-bottom: 30px;
+    padding: 0;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
