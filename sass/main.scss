@@ -1,20 +1,21 @@
-@import './normalize/normalize';
-@import './utils/variables';
-@import './components/body';
-@import './components/header';
-@import './components/logo';
-@import './components/nav-links';
-@import './components/nav-contacts';
-@import './components/_hero';
-@import './components/hero-button';
-@import './components/name';
+@import './normalize/base';
+@import './normalize/reset.scss';
+@import './utils/vars';
+@import './components/nav';
+@import './components/hero';
 @import './components/quality';
-@import './components/work';
+@import './components/works';
 @import './components/team';
 @import './components/clients';
 @import './components/footer';
-@import './components/filters-buttons';
-@import './components/image-portfolio';
-@import './components/section';
+@import './components/portfolio';
 @import './components/modal';
-@import './components/form-modal';
+
+
+
+
+
+
+
+
+
