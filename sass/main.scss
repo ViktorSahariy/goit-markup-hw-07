@@ -1,5 +1,5 @@
-@import './normalize/base';
-@import './normalize/reset.scss';
+@import './base/reset';
+@import './base/common';
 @import './utils/vars';
 @import './components/nav';
 @import './components/hero';
