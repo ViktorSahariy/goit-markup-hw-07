@@ -1,16 +1,26 @@
+@import './utils/vars';
 @import './base/reset';
 @import './base/common';
-@import './utils/vars';
-@import './components/nav';
-@import './components/hero';
-@import './components/quality';
-@import './components/works';
-@import './components/team';
-@import './components/clients';
-@import './components/footer';
-@import './components/portfolio';
 @import './components/modal';
+@import './components/nav';
+@import './layout/hero';
+@import './layout/clients';
+@import './layout/footer';
 @import './layout/layout';
+@import './layout/portfolio';
+@import './layout/quality';
+@import './layout/team';
+@import './layout/works';
+
+
+
+
+
+
+
+
+
+
 
 
 
